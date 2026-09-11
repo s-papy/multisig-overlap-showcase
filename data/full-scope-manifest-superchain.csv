@@ -1,0 +1,202 @@
+protocol,chain,field_role,candidate_address,confirmed_safe,owner_count,block_height,check_date
+Velodrome (Optimism),optimism,Emergency_Council,0x838352F4E3992187a33a04826273dB3992Ee2b3f,true,9,156644545,2026-09-07
+Aerodrome (Base),base,Protocol_Team,0xE6A41fE61E7a1996B59d508661e3f524d6A32075,true,7,51049260,2026-09-07
+Aerodrome (Base),base,Emergency_Council,0x99249b10593fCa1Ae9DAE6D4819F1A6dae5C013D,true,5,51049260,2026-09-07
+Extra Finance (Optimism),optimism,Team_Multisig,0x94440d355877696753597E2d90d54BbC51b2a38D,true,3,156644545,2026-09-07
+Extra Finance (Base),base,Gov_Multisig,0x750f7153e6c92a24089a34eC6AFe65740C9bd40A,true,3,51049260,2026-09-07
+Moonwell (Base),base,Break_Glass_Guardian,0x5B710010586C1b728B047c3E42473c700eeA4026,true,4,51049260,2026-09-07
+Morpho Blue (Base),base,Morpho_DAO_Safe,0xcBa28b38103307Ec8dA98377ffF9816C164f9AFa,true,9,51049260,2026-09-07
+Morpho Blue (World Chain),worldchain,Morpho_DAO_Safe,0x67012f01008330ED921d5352EA1b49A1E81AAa22,true,9,34776115,2026-09-07
+Morpho Blue (Fraxtal),fraxtal,Morpho_DAO_Safe,0x4194688D29573b0B20E029Cbc049442469f74917,true,9,41038579,2026-09-07
+Alchemix (Optimism),optimism,Optimism_Multisig,0xC224bf25Dcc99236F00843c7D8C4194abE8AA94a,true,7,156644545,2026-09-07
+Beefy Finance (Optimism),optimism,Dev_Multisig,0x2c572743B345ED750907dC95D459dbeaC499D8CF,true,6,156644545,2026-09-07
+Beefy Finance (Base),base,Dev_Multisig,0x6FfaCA7C3B38Ec2d631D86e15f328ee6eF6C6226,true,6,51049260,2026-09-07
+Silo Finance (Optimism),optimism,Factory_Owner,0xE8e8041cB5E3158A0829A19E014CA1cf91098554,true,5,156644545,2026-09-07
+Silo Finance (Base),base,Factory_Owner,0xE8e8041cB5E3158A0829A19E014CA1cf91098554,true,5,51049260,2026-09-07
+Silo Finance (Ink),ink,Factory_Owner,0xE8e8041cB5E3158A0829A19E014CA1cf91098554,true,6,55389456,2026-09-07
+Aave V3 (Optimism),optimism,Protocol_Guardian,0x56C1a4b54921DEA9A344967a8693C7E661D72968,true,7,156644545,2026-09-07
+Aave V3 (Base),base,Protocol_Guardian,0x56C1a4b54921DEA9A344967a8693C7E661D72968,true,7,51049260,2026-09-07
+Compound III (Base),base,Pause_Guardian,0x3cb4653F3B45F448D9100b118B75a1503281d2ee,true,9,51049260,2026-09-07
+Angle Protocol (Optimism),optimism,Guardian,0xD245678e417aEE2d91763F6f4eFE570FF52fD080,true,3,156644545,2026-09-07
+Angle Protocol (Base),base,Guardian,0xe4BB74804edf5280c9203f034036f7CB15196078,true,3,51049260,2026-09-07
+Angle Protocol (Celo),celo,Guardian,0x434153aA505959BCD5aAa7c17445EB8d835086f5,true,3,76987110,2026-09-07
+Origin Protocol / superOETHb (Base),base,Guardian_2,0x28bce2eE5775B652D92bB7c2891A89F036619703,true,2,51049260,2026-09-07
+Radiant Capital (Base),base,Dao_Treasury,0x2ab122a2703d02C2f12fb17B6Dd63f7F7c8a89aE,true,8,51049260,2026-09-07
+Overnight Finance (Optimism),optimism,OVN_Agent,0xD439BD5Fb6fAbB2244C46f03559485c3C33e0521,true,5,156644545,2026-09-07
+Overnight Finance (Base),base,OVN_Agent,0xAba227eAd919E060B95B02bab2270646840bF9bC,true,5,51049260,2026-09-07
+Kwenta (Optimism),optimism,Elite_Council,0xD25215758734dd3aDE497CE04De1c35820964126,true,4,156644545,2026-09-07
+Lyra / Derive legacy (Optimism),optimism,Legacy_Multisig,0x246d38588b16Dd877c558b245e6D5a711C649fCF,true,1,156644545,2026-09-07
+Lyra / Derive (Derive Chain),derive,Core_Protocol_Owner_Safe,0x169a99B9958386a5D91E732Ed08B344946A92391,true,5,44433127,2026-09-07
+Gains Network (Base),base,Timelock_Owner,0xc07EEd650aB255190CA9766162CfB47cFDf72f3a,true,7,51049260,2026-09-07
+BaseSwap (Base),base,Timelock_Signer,0xAF1823bACd8EDDA3b815180a61F8741fA4aBc6Dd,true,4,51049260,2026-09-07
+QiDao / Mai Finance (Base),base,Guardian,0xE816F03e31a75cAbE64861064a6219ebe62c613D,true,6,51049260,2026-09-07
+QiDao / Mai Finance (Fraxtal),fraxtal,Guardian,0xe7748203ec71eeBb207700dA94A3F829Bf0632F7,true,6,41038579,2026-09-07
+Beefy Finance (Mode),mode,Dev_Multisig,0xB7775ce77ea0dE48699ee5fce86DbD32aAb3B741,true,6,44360141,2026-09-07
+Beefy Finance (Unichain),unichain,Dev_Multisig,0x04db327e5d9A0c680622E2025B5Be7357fC757f0,true,6,58139509,2026-09-07
+Aave V3 (Ink),ink,AFC_Safe,0x22740deBa78d5a0c24C58C740e3715ec29de1bFa,true,3,55389456,2026-09-07
+Aave V3 (Ink),ink,Budget_Incentive_Safe,0x66Ac7223048037826e12cef9a848199e31AEFabE,true,3,55389456,2026-09-07
+Aave V3 (Ink),ink,Merkl_Distribution_Safe,0x89587ebe7cFF64c6527fE2Deccc3521D75763E8D,true,5,55389456,2026-09-07
+Aave V3 (Ink),ink,Robot_Guardian,0x441E4053fDDF1e1a77a39d00309Af389096d4124,true,3,55389456,2026-09-07
+Aave V3 (Ink),ink,Ahab_Safe,0xAA2461f0f0A3dE5fEAF3273eAe16DEF861cf594e,true,3,55389456,2026-09-07
+Aave V3 (Ink),ink,Alc_Safe,0xA1c93D2687f7014Aaf588c764E3Ce80aF016229b,true,3,55389456,2026-09-07
+Aave V3 (Ink),ink,TokenLogic_Execution_Safe,0x9DE1d45e2786b03498289959203F25b29B4D1193,true,5,55389456,2026-09-07
+Aave V3 (Soneium),soneium,Protocol_Guardian,0xEf323B194caD8e02D9E5D8F07B34f625f1c088f1,true,7,27876559,2026-09-07
+Beefy Finance (Lisk),lisk,Dev_Multisig,0x907Ef6b428E55c64081C75dec36771d35c25534b,true,6,37079539,2026-09-07
+Beefy Finance (Fraxtal),fraxtal,Dev_Multisig,0x6eA680acb92497F6dbe64d93d8a00a6d20106616,true,6,41038579,2026-09-07
+Aave V3 (Celo),celo,Protocol_Guardian,0x88E7aB6ee481Cf92e548c0e1169F824F99142c85,true,7,76987110,2026-09-07
+Aave V3 (Celo),celo,Masiv_Safe,0xdef1FA4CEfe67365ba046a7C630D6B885298E210,true,3,76987110,2026-09-07
+Aave V3 (Celo),celo,AFC_Safe,0x22740deBa78d5a0c24C58C740e3715ec29de1bFa,true,3,76987110,2026-09-07
+Aave V3 (Celo),celo,Budget_Incentive_Safe,0x66Ac7223048037826e12cef9a848199e31AEFabE,true,3,76987110,2026-09-07
+Aave V3 (Celo),celo,Merkl_Distribution_Safe,0x89587ebe7cFF64c6527fE2Deccc3521D75763E8D,true,5,76987110,2026-09-07
+Aave V3 (Celo),celo,Robot_Guardian,0x441E4053fDDF1e1a77a39d00309Af389096d4124,true,3,76987110,2026-09-07
+Aave V3 (Celo),celo,TokenLogic_Execution_Safe,0x9DE1d45e2786b03498289959203F25b29B4D1193,true,5,76987110,2026-09-07
+Aave V3 (Bob),bob,Governance_Guardian,0x19CE4363FEA478Aa04B9EA2937cc5A2cbcD44be6,true,9,38012942,2026-09-07
+Zora (Base),base,Factory_Upgrade_Gate_Owner,0x99B5E1B42f018EEA69AFBB3a653F0338fc28013A,true,6,51049260,2026-09-07
+Zora (Zora Network),zora,Factory_Upgrade_Gate_Owner,0xdEA20c96253dc2d64897D2b8d27A8d935dE74955,true,6,51097015,2026-09-07
+Zora (Optimism),optimism,Factory_Upgrade_Gate_Owner,0x7A810DCd0f8d83B20212326813Db6EF7E9FD030c,true,5,156644545,2026-09-07
+Contango / Rodeo Finance (Base),base,Core_Multisig,0xBA59f902e3EE431E97C4Aca203fD5E6e3d4f8bE9,true,3,51049260,2026-09-07
+Contango / Rodeo Finance (Base),base,Operator_Multisig,0x4d7ef6a348b96F261591E7741512Eb3C00C4a683,true,4,51049260,2026-09-07
+Contango / Rodeo Finance (Optimism),optimism,Core_Multisig,0xCA7fE1a4CF1640d2bA6d399fbB103C605b27EA7F,true,3,156644545,2026-09-07
+Contango / Rodeo Finance (Optimism),optimism,Operator_Multisig,0x4d7ef6a348b96F261591E7741512Eb3C00C4a683,true,4,156644545,2026-09-07
+MUX Protocol (Optimism),optimism,DAO_Multisig,0x7C8126ef43c09C22bf0CcdF7426180e6c48068A5,true,8,156644545,2026-09-07
+Perennial (Base),base,Timelock_Proposer,0x206e580a26003C93cdC3CAf65C2D7FbF09AD1930,true,3,51049260,2026-09-07
+Hyperdrive by Delv (Base),base,Governance_Safe,0x1e5F79a045bA7eE95815a8d192d49C25fb9523EE,true,6,51049260,2026-09-07
+ether.fi (Optimism),optimism,Controller_Safe,0x764682c769CcB119349d92f1B63ee1c03d6AECFf,true,7,156644545,2026-09-07
+ether.fi (Base),base,Controller_Safe,0x7a00657a45420044bc526B90Ad667aFfaee0A868,true,7,51049260,2026-09-07
+ether.fi (Mode),mode,Controller_Safe,0xa4822d7d24747e6A1BAA171944585bad4434f2D5,true,7,44360141,2026-09-07
+ether.fi (Unichain),unichain,Controller_Safe,0xe54449CB6162FfcA23721434F4bB9f62702dC602,true,7,58139509,2026-09-07
+ether.fi (Ink),ink,Controller_Safe,0x7a00657a45420044bc526B90Ad667aFfaee0A868,true,7,55389456,2026-09-07
+Puffer Finance (Base),base,Pauser_Multisig,0xB714703d3F1A974F83808A97ee255a1954ec1537,true,13,51049260,2026-09-07
+Puffer Finance (Soneium),soneium,Operations_Multisig,0x31310930CA2EC880c8a0834104521aad5B7f0A4d,true,6,27876559,2026-09-07
+Renzo Protocol (Optimism),optimism,L2_Admin_Safe,0x8410927C286A38883BC23721e640F31D3E3E79F8,true,5,156644545,2026-09-07
+Renzo Protocol (Base),base,L2_Admin_Safe,0x8410927C286A38883BC23721e640F31D3E3E79F8,true,5,51049260,2026-09-07
+Renzo Protocol (Mode),mode,L2_Admin_Safe,0x7791eeA3484Ba4E5860B7a2293840767619c2B58,true,5,44360141,2026-09-07
+Renzo Protocol (Unichain),unichain,L2_Admin_Safe,0x70aF964829DA7F3f51973EE806AEeAB9225F2661,true,5,58139509,2026-09-07
+Renzo Protocol (Ink),ink,L2_Admin_Safe,0x42A4E564836AE98C2522368Be2faA6e96Ff7a07f,true,6,55389456,2026-09-07
+Renzo Protocol (World Chain),worldchain,L2_Admin_Safe,0x7Be36310285cA4e809C296526745DA983c8F8e0f,true,5,34776115,2026-09-07
+Stader Labs (Optimism),optimism,Safe_Account,0x71a06E7F6332dCA230748D387758BfC4618a2799,true,6,156644545,2026-09-07
+Swell Network (Base),base,rswETH_OFT_Owner,0x93fCf3890D5746a0E301B85d477075ecF3585427,true,7,51049260,2026-09-07
+Yearn Finance (Optimism),optimism,oChad_Multisig,0xF5d9D6133b698cE29567a90Ab35CfB874204B3A7,true,5,156644545,2026-09-07
+Yearn Finance (Base),base,bChad_Multisig,0xbfAABa9F56A39B814281D68d2Ad949e88D06b02E,true,5,51049260,2026-09-07
+Idle Finance (Optimism),optimism,CDO_ProxyAdmin_Owner,0xFDbB4d606C199F091143BD604C85c191a526fbd0,true,6,156644545,2026-09-07
+Reaper Farm (Optimism),optimism,Super_Admin,0x9BC776dBb134Ef9D7014dB1823Cd755Ac5015203,true,9,156644545,2026-09-07
+Reaper Farm (Optimism),optimism,Guardian,0xb0C9D5851deF8A2Aac4A23031CA2610f8C3483F9,true,9,156644545,2026-09-07
+Reaper Farm (Optimism),optimism,Admin_Treasury,0xeb9C9b785aA7818B2EBC8f9842926c4B9f707e4B,true,9,156644545,2026-09-07
+Reserve Protocol (Base),base,hyUSD_Guardian,0x6f1D6b86d4ad705385e751e6e88b0FdFDBAdf298,true,3,51049260,2026-09-07
+Backed Finance (Base),base,Token_Owner_Safe,0xD1966bd72695789ec9C245F0Bf5A8512B56c1d80,true,3,51049260,2026-09-07
+Backed Finance (Base),base,ProxyAdmin_Owner_Safe,0x49754062E35f7591B93cc4F9915965be89643a65,true,3,51049260,2026-09-07
+Backed Finance (Base),base,Pauser_Minter_Safe,0x20EB617CC8E8BF3C9B53FC2cf2444CF026dA704F,true,5,51049260,2026-09-07
+Premia Finance (Optimism),optimism,Operator_Treasury_Safe,0xfc5538E1E9814eD6487b407FaD7b5710739A1cC2,true,5,156644545,2026-09-07
+1inch (Optimism),optimism,Router_Owner_Safe,0x5B18c756F4D9B54255a17BF120da2cF74743247f,true,5,156644545,2026-09-07
+1inch (Base),base,Router_Owner_Safe,0xa4659995DC39d891C1bA9131Aaf5F000E5B57224,true,5,51049260,2026-09-07
+1inch (Unichain),unichain,Router_Owner_Safe,0xc985620F2F18a6560ca68F1f85107674735CF8e7,true,5,58139509,2026-09-07
+Odos (Optimism),optimism,Router_Owner_Safe,0x498292DC123f19Bdbc109081f6CF1D0E849A9daF,true,6,156644545,2026-09-07
+Odos (Base),base,Router_Owner_Safe,0x498292DC123f19Bdbc109081f6CF1D0E849A9daF,true,5,51049260,2026-09-07
+Odos (Unichain),unichain,Router_Owner_Safe,0x498292DC123f19Bdbc109081f6CF1D0E849A9daF,true,6,58139509,2026-09-07
+Odos (Mode),mode,Router_Owner_Safe,0x296C61BB5C87c3B178205BE89BbE238C0e9CE035,true,7,44360141,2026-09-07
+ParaSwap / Velora (Base),base,AugustusSwapper_Admin,0x6C674c8Df1aC663b822c4B6A56B4E5e889379AE0,true,12,51049260,2026-09-07
+ParaSwap / Velora (Optimism),optimism,AugustusSwapper_Admin,0x3b28A6f6291f7e8277751f2911Ac49C585d049f6,true,12,156644545,2026-09-07
+CoW Protocol (Optimism),optimism,AllowListAuth_Owner,0x4580cc095826E1318D11b123404b0AC0aBE4D932,true,9,156644545,2026-09-07
+CoW Protocol (Base),base,AllowListAuth_Owner,0xf03f55AF1d91aF8E01Be10c5684f35F9Ec1e15E7,true,10,51049260,2026-09-07
+CoW Protocol (Ink),ink,AllowListAuth_Owner,0x4580cc095826E1318D11b123404b0AC0aBE4D932,true,9,55389456,2026-09-07
+deBridge (Optimism),optimism,Admin_Multisig,0xA52842cD43fA8c4B6660E443194769531d45b265,true,8,156644545,2026-09-07
+deBridge (Base),base,Admin_Multisig,0xF0A9d50F912D64D1105b276526e21881bF48A29e,true,8,51049260,2026-09-07
+API3 (Optimism),optimism,Manager_Multisig,0x2AAE699ed04BBbD068f67a5b3C813eBB35f2c9E8,true,8,156644545,2026-09-07
+API3 (Base),base,Manager_Multisig,0x2AAE699ed04BBbD068f67a5b3C813eBB35f2c9E8,true,8,51049260,2026-09-07
+API3 (Mode),mode,Manager_Multisig,0x2AAE699ed04BBbD068f67a5b3C813eBB35f2c9E8,true,8,44360141,2026-09-07
+API3 (Unichain),unichain,Manager_Multisig,0x2AAE699ed04BBbD068f67a5b3C813eBB35f2c9E8,true,8,58139509,2026-09-07
+API3 (Soneium),soneium,Manager_Multisig,0x2AAE699ed04BBbD068f67a5b3C813eBB35f2c9E8,true,8,27876559,2026-09-07
+API3 (World Chain),worldchain,Manager_Multisig,0x2AAE699ed04BBbD068f67a5b3C813eBB35f2c9E8,true,8,34776115,2026-09-07
+API3 (Fraxtal),fraxtal,Manager_Multisig,0x2AAE699ed04BBbD068f67a5b3C813eBB35f2c9E8,true,8,41038579,2026-09-07
+Chainlink Data Feeds (Optimism),optimism,ETH_USD_Feed_Owner,0xAbC73A7dbd0A1D6576d55F19809a6F017913C078,true,9,156644545,2026-09-07
+Chainlink Data Feeds (Unichain),unichain,ETH_USD_Feed_Owner,0x46Ca88Ccbe7CC9aF9b9dd9E9a14c4B81F0eF14E6,true,9,58139509,2026-09-07
+Chainlink Data Feeds (Soneium),soneium,ETH_USD_Feed_Owner,0x3Cd77Fe369967dA323B60b1CEd24F14a508c0bc8,true,9,27876559,2026-09-07
+Chainlink Data Feeds (Celo),celo,ETH_USD_Feed_Owner,0x43B5a67F6FE93C946C565F6d6eb90eE1FB4EA618,true,9,76987110,2026-09-07
+Hop Protocol (Optimism),optimism,Community_Multisig,0xC988107688b750dee6237B85A3ca49ba0a65DaB0,true,5,156644545,2026-09-07
+Synapse Protocol (Base),base,DevMultisig,0xE48de7c3A9094b2CbA88D4f72E3cbc2E60Fad8cF,true,3,51049260,2026-09-07
+RedStone Oracles (Lisk),lisk,Owner_Safe,0x394Ae9d48eeca1C69a989B5A8C787081595c55A7,true,5,37079539,2026-09-07
+Ethena (Optimism),optimism,Multisig,0xc66bbBf821f2cfB3a85683acF0326EAC92C160Bd,true,10,156644545,2026-09-07
+Ethena (Base),base,Multisig,0xbC89D10EB486b6591583F218acB9545087dBF293,true,10,51049260,2026-09-07
+Ethena (Mode),mode,Multisig,0x273ceD5b9da8F5ba6E40C82c126898cB5307B2ea,true,10,44360141,2026-09-07
+Ethena (Fraxtal),fraxtal,Multisig,0xc66bbBf821f2cfB3a85683acF0326EAC92C160Bd,true,10,41038579,2026-09-07
+Frax Finance (Fraxtal),fraxtal,Comptrollers,0xC4EB45d80DC1F079045E75D5d55de8eD1c1090E6,true,5,41038579,2026-09-07
+Frax Finance (Fraxtal),fraxtal,Gov_Proposer,0xc188a8f8066e720D892c0cfAE9B9865e3425fCdE,true,1,41038579,2026-09-07
+Frax Finance (Fraxtal),fraxtal,FPI_Comptroller,0x7fC64FFDdf99Cd64dc2CFf86A82F3b749962cF33,true,5,41038579,2026-09-07
+Frax Finance (Fraxtal),fraxtal,Fraxlend_Circuit_Breaker,0x0eD01ea3B95e0f68DF2c9CD67F138ff3547b311C,true,6,41038579,2026-09-07
+Frax Finance (Optimism),optimism,Comptroller,0x0dF840dCbf1229262A4125C1fc559bd338eC9491,true,5,156644545,2026-09-07
+Frax Finance (Optimism),optimism,FPI_Comptroller,0x8Acc8819cBB632dE4a8E732f08b9E578D2A8F635,true,5,156644545,2026-09-07
+Frax Finance (Optimism),optimism,OFT_Owner,0x419e672d625f998dd07a7ecf2E06B896F8717cb2,true,6,156644545,2026-09-07
+Frax Finance (Base),base,OFT_Owner,0xCBfd4Ef00a8cf91Fd1e1Fe97dC05910772c15E53,true,6,51049260,2026-09-07
+Frax Finance (Mode),mode,OFT_Owner,0x6336CFA6eDBeC2A459d869031DB77fC2770Eaa66,true,6,44360141,2026-09-07
+Frax Finance (Ink),ink,OFT_Owner,0x91eBC17cD330DD694225133455583FBCA54b8eC8,true,6,55389456,2026-09-07
+Frax Finance (Unichain),unichain,OFT_Owner,0x6f8FDdfD4F6a1456BA5632C919bEF74b64DD032D,true,6,58139509,2026-09-07
+Frax Finance (World Chain),worldchain,OFT_Owner,0xf57d47c3EA11c12253dBc0BeAf097d5c206e8773,true,6,34776115,2026-09-07
+Curve Finance (Base),base,Emergency_DAO,0x6d447e544D01a59cb0774763bf15526574CffFeD,true,9,51049260,2026-09-07
+Curve Finance (Celo),celo,Emergency_DAO,0x6d447e544D01a59cb0774763bf15526574CffFeD,true,9,76987110,2026-09-07
+Curve Finance (Fraxtal),fraxtal,Emergency_DAO,0x6d447e544D01a59cb0774763bf15526574CffFeD,true,9,41038579,2026-09-07
+Curve Finance (Ink),ink,Emergency_DAO,0x6d447e544D01a59cb0774763bf15526574CffFeD,true,9,55389456,2026-09-07
+Curve Finance (Optimism),optimism,Emergency_DAO,0x6d447e544D01a59cb0774763bf15526574CffFeD,true,9,156644545,2026-09-07
+Curve Finance (Unichain),unichain,Emergency_DAO,0x6d447e544D01a59cb0774763bf15526574CffFeD,true,9,58139509,2026-09-07
+Resolv (Base),base,Token_Owner,0xD6889F307BE1b83Bb355d5DA7d4478FB0d2Af547,true,6,51049260,2026-09-07
+Resolv (Soneium),soneium,Token_Owner,0x74e6c3AAe1c4960Baa91eF05b87A1A0E25188605,true,6,27876559,2026-09-07
+Usual Money (Base),base,RegistryAccess_Admin,0x121342fE426cca0C4dFA3554bEfDf6c14Ef42ebb,true,9,51049260,2026-09-07
+f(x) Protocol (Optimism),optimism,Token_Owner,0x44E4158d93ACCf19F7B97a28B88A26DfF3c3D6d2,true,4,156644545,2026-09-07
+Euler V2 (Base),base,DAO_Safe,0x1e13B0847808045854Ddd908F2d770Dc902Dcfb8,true,8,51049260,2026-09-07
+Euler V2 (BOB),bob,DAO_Safe,0x84423e1B4a5EB2B81947d9284fE098E56017aB35,true,8,38012942,2026-09-07
+Euler V2 (Unichain),unichain,DAO_Safe,0xf6d781B96b65495f8b0429f3023Df2194AfCF06F,true,8,58139509,2026-09-07
+Venus Protocol (Optimism),optimism,Guardian_Multisig,0x2e94dd14E81999CdBF5deDE31938beD7308354b3,true,6,156644545,2026-09-07
+Venus Protocol (Base),base,Guardian_Multisig,0x1803Cf1D3495b43cC628aa1d8638A981F8CD341C,true,7,51049260,2026-09-07
+Venus Protocol (Unichain),unichain,Guardian_Multisig,0x1803Cf1D3495b43cC628aa1d8638A981F8CD341C,true,6,58139509,2026-09-07
+dForce (Optimism),optimism,Admin_Multisig,0xebAA48d1C4129E93A1d286B01B56cc4981c30004,true,5,156644545,2026-09-07
+dForce (Optimism),optimism,Treasury_Multisig,0xF89E24BaD60D78386a5Fe6B6c897dd4d88A9Ed70,true,3,156644545,2026-09-07
+Term Finance (Base),base,Treasury_Wallet,0x0842FdFB5940ef6a4EA6c5DEE024EEC1dDc6977d,true,3,51049260,2026-09-07
+Term Finance (Base),base,Protocol_Reserve_Wallet,0xAd30d904De4302ea13ef09242B49fCbF3822Cb88,true,3,51049260,2026-09-07
+EigenLayer (Base),base,Pauser_Multisig,0x1a051eF1524cbaEa57Ca04319ef93fE78903D5E6,true,6,51049260,2026-09-07
+EigenLayer (Base),base,Operations_Multisig,0x8eD55c7640497Db15aC32c698c1a06E2E604d865,true,6,51049260,2026-09-07
+EigenLayer (Base),base,Protocol_Council_Multisig,0x841B988aaEafce13b6456ff34015FBc42Aedb7e6,true,6,51049260,2026-09-07
+EigenLayer (Base),base,Community_Multisig,0xC107547924C7D1d3E2d10eA8DF534BBfC5F373e6,true,6,51049260,2026-09-07
+EigenLayer (Base),base,Executor_Multisig,0x5d808608Ad70873ca4dE50F83416264dc15264C2,true,2,51049260,2026-09-07
+EigenLayer (Base),base,Multichain_Deployer_Multisig,0xa3053EF25F1F7d9D55a7655372B8a31D0f40eCA9,true,7,51049260,2026-09-07
+Karak (Fraxtal),fraxtal,Governance_Safe,0xF17d3552dd9d4A5F94bFb6810e1c5a9C9F8E0097,true,7,41038579,2026-09-07
+OpenSea / Seaport (Optimism),optimism,Default_Conduit_Owner_Safe,0x39a28e49B0e099251052f7a7F18eF4AC876dcB70,true,7,156644545,2026-09-07
+OpenSea / Seaport (Base),base,Default_Conduit_Owner_Safe,0xEE6e23F6a43B2fc532499Aec0Dd242FDd2Db3AE5,true,7,51049260,2026-09-07
+OpenSea / Seaport (Zora Network),zora,Default_Conduit_Owner_Safe,0x70D1890065e3672b0C571ad0675bEE7757263D86,true,7,51097015,2026-09-07
+OpenSea / Seaport (Unichain),unichain,Default_Conduit_Owner_Safe,0xF32eC0eF52F22ce1245dA9A42F88ceCa42a64273,true,7,58139509,2026-09-07
+OpenSea / Seaport (Soneium),soneium,Default_Conduit_Owner_Safe,0x192043187a9FBfd5C2B1967EadE07a1C693D84d3,true,7,27876559,2026-09-07
+Manifold (Optimism),optimism,Marketplace_V2_Owner,0xcC42795E779993446C4BC54Fe818aeDb21072191,true,3,156644545,2026-09-07
+Manifold (Base),base,Marketplace_V2_Owner,0xD49B627a94E55744B7B1262FCB6E9248da068f36,true,3,51049260,2026-09-07
+Unstoppable Domains (Base),base,Admin_Safe,0xfEc540DfD4e9929d6c29ceA92fc88F1abF2d772C,true,13,51049260,2026-09-07
+CoinList (Base),base,Sale_Factory_Deployment_Owner_Safe,0x78C7AB5B34D779D1FEE5928963Ac426eb5a17B1d,true,4,51049260,2026-09-07
+The Sandbox (Base),base,Sand_Admin_Owner,0x18987794f808eE72Ae9127058F1C7d079736Ca45,true,5,51049260,2026-09-07
+Parallel / Echelon Prime (Base),base,Token_Owner,0xb11c0189C5E2b4aCc797e893447bAb452F38811E,true,8,51049260,2026-09-07
+Farcaster (Optimism),optimism,Registry_Owner_Safe,0x53c6dA835c777AD11159198FBe11f95E5eE6B692,true,10,156644545,2026-09-07
+Farcaster (Optimism),optimism,Recovery_Owner_Safe,0xFFE52568Fb0E7038Ef289677288BB704E5c9E82e,true,8,156644545,2026-09-07
+Farcaster (Base),base,TierRegistry_Owner_Safe,0x53c6dA835c777AD11159198FBe11f95E5eE6B692,true,10,51049260,2026-09-07
+Hyperlane (Optimism),optimism,Mailbox_ProxyAdmin_Owner_Safe,0x890ac177Fe3052B8676A65f32C1589Bc329f3d50,true,10,156644545,2026-09-07
+Hyperlane (Base),base,Mailbox_ProxyAdmin_Owner_Safe,0x890ac177Fe3052B8676A65f32C1589Bc329f3d50,true,10,51049260,2026-09-07
+EAS RetroPGF Badgeholders (Optimism),optimism,Badgeholder_Attester_Safe,0x621477dBA416E12df7FF0d48E14c4D20DC85D7D9,true,3,156644545,2026-09-07
+AttestationStation (Optimism),optimism,Proxy_Admin_Safe,0x60c5C9c98bcBd0b0F2fD89B24c16e533BaA8CdA3,true,1,156644545,2026-09-07
+World ID (World Chain),worldchain,Router_Verifier_Owner_Safe,0xc534a745bFfaF9466Ed7B47fA23B0177b99A3e77,true,5,34776115,2026-09-07
+World ID (Optimism),optimism,Router_Owner_Safe,0xc534a745bFfaF9466Ed7B47fA23B0177b99A3e77,true,7,156644545,2026-09-07
+Superfluid (Optimism),optimism,Governance_Owner_Safe,0x06a858185b3B2ABB246128Bb9415D57e5C09aEB6,true,4,156644545,2026-09-07
+Superfluid (Base),base,Governance_Owner_Safe,0x06a858185b3B2ABB246128Bb9415D57e5C09aEB6,true,4,51049260,2026-09-07
+Superfluid (Celo),celo,Governance_Owner_Safe,0x06a858185b3B2ABB246128Bb9415D57e5C09aEB6,true,4,76987110,2026-09-07
+"Optimism Foundation Superchain Safe (L1, 5 chaines)",ethereum,ProxyAdminOwner_5chaines_Safe,0x5a0Aae59D09fccBdDb6C6CcEB07B7279367C3d2A,true,2,25934083,2026-09-07
+"OpFoundationUpgradeSafe (L1, SystemConfig Optimism+Ink, co-signe Unichain)",ethereum,SystemConfigOwner_OptimismInk_Safe,0x847B5c174615B1B7fDF770882256e2D3E95b9D92,true,7,25934083,2026-09-07
+"Base Chain Governance (L1, ProxyAdmin)",ethereum,ProxyAdminOwner_Safe,0x7bB41C3008B3f03FE483B28b8DB90e19Cf07595c,true,2,25934083,2026-09-07
+"Base Chain Governance (L1, SystemConfig)",ethereum,SystemConfigOwner_Safe,0x14536667Cd30e52C0b458BaACcB9faDA7046E056,true,12,25934083,2026-09-07
+"Conduit Chain Governance (L1, Mode+Derive)",ethereum,Mode_SystemConfig_Derive_Proxy_SystemConfig_Safe,0x4a4962275DF8C60a80d3a25faEc5AA7De116A746,true,11,25934083,2026-09-07
+"Unichain Governance (L1, ProxyAdmin, Uniswap Labs)",ethereum,ProxyAdminOwner_Safe,0x6d5B183F538ABB8572F5cD17109c617b994D5833,true,3,25934083,2026-09-07
+"Unichain Governance (L1, SystemConfig)",ethereum,SystemConfigOwner_Safe,0x9245d5D10AA8a842B31530De71EA86c0760Ca1b1,true,5,25934083,2026-09-07
+"Soneium Governance (L1, SystemConfig)",ethereum,SystemConfigOwner_Safe,0x509182eC226b3B71D36A3255A80EF0b1A9D43033,true,6,25934083,2026-09-07
+"Lisk Governance (L1, ProxyAdmin, wrapper Gelato)",ethereum,ProxyAdminOwner_wrapper_Safe,0xECd4150ABbb1EBff13f74e42Fb43C3d78B4E0b45,true,1,25934083,2026-09-07
+"Gelato Multisig (L1, opere Lisk, ex-SystemConfig Ink)",ethereum,Gelato_Multisig_Safe,0xBeA2Bc852a160B8547273660E22F4F08C2fa9Bbb,true,5,25934083,2026-09-07
+"Celo Governance (L1, ProxyAdmin)",ethereum,ProxyAdminOwner_Safe,0x4092A77bAF58fef0309452cEaCb09221e556E112,true,2,25934083,2026-09-07
+"Celo Governance (L1, SystemConfig, cLabs Multisig)",ethereum,SystemConfigOwner_cLabs_Safe,0x9Eb44Da23433b5cAA1c87e35594D15FcEb08D34d,true,8,25934083,2026-09-07
+"Zora Network Governance (L1, SystemConfig)",ethereum,SystemConfigOwner_Safe,0xC72aE5c7cc9a332699305E29F68Be66c73b60542,true,10,25934083,2026-09-07
+"World Chain Governance (L1, ProxyAdmin, Alchemy-opere)",ethereum,ProxyAdminOwner_Safe,0xA4fB12D15Eb85dc9284a7df0AdBC8B696EdbbF1d,true,8,25934083,2026-09-07
+"Fraxtal Governance (L1, ProxyAdmin+SystemConfig)",ethereum,ProxyAdminOwner_SystemConfigOwner_Safe,0xe0d7755252873c4eF5788f7f45764E0e17610508,true,5,25934083,2026-09-07
+"BOB Governance (L1, ProxyAdmin+SystemConfig)",ethereum,ProxyAdminOwner_SystemConfigOwner_Safe,0xC91482A96e9c2A104d9298D1980eCCf8C4dc764E,true,6,25934083,2026-09-07
+Term Finance,base,ADMIN_ROLE,0x73d1C7dc9CEb14660Cf1E9BB29F80ECF9E97D774,true,10,,
+Term Finance,base,DEVOPS_ROLE,0xb8A1dF43c1c88b13937C0c5CEBbAd15830cAeC03,true,9,,
+Term Finance,base,CONTROLLER_ADMIN_ROLE,0x294b58eC6C0Ee48937487502106B8CE38dC8D7eb,false,,,
