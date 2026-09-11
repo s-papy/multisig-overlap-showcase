@@ -197,6 +197,6 @@ Superfluid (Celo),celo,Governance_Owner_Safe,0x06a858185b3B2ABB246128Bb9415D57e5
 "World Chain Governance (L1, ProxyAdmin, Alchemy-opere)",ethereum,ProxyAdminOwner_Safe,0xA4fB12D15Eb85dc9284a7df0AdBC8B696EdbbF1d,true,8,25934083,2026-09-07
 "Fraxtal Governance (L1, ProxyAdmin+SystemConfig)",ethereum,ProxyAdminOwner_SystemConfigOwner_Safe,0xe0d7755252873c4eF5788f7f45764E0e17610508,true,5,25934083,2026-09-07
 "BOB Governance (L1, ProxyAdmin+SystemConfig)",ethereum,ProxyAdminOwner_SystemConfigOwner_Safe,0xC91482A96e9c2A104d9298D1980eCCf8C4dc764E,true,6,25934083,2026-09-07
-Term Finance,base,ADMIN_ROLE,0x73d1C7dc9CEb14660Cf1E9BB29F80ECF9E97D774,true,10,,
-Term Finance,base,DEVOPS_ROLE,0xb8A1dF43c1c88b13937C0c5CEBbAd15830cAeC03,true,9,,
-Term Finance,base,CONTROLLER_ADMIN_ROLE,0x294b58eC6C0Ee48937487502106B8CE38dC8D7eb,false,,,
+Term Finance (Base),base,ADMIN_ROLE,0x73d1C7dc9CEb14660Cf1E9BB29F80ECF9E97D774,true,10,,
+Term Finance (Base),base,DEVOPS_ROLE,0xb8A1dF43c1c88b13937C0c5CEBbAd15830cAeC03,true,9,,
+Term Finance (Base),base,CONTROLLER_ADMIN_ROLE,0x294b58eC6C0Ee48937487502106B8CE38dC8D7eb,false,,,
