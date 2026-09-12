@@ -19,6 +19,7 @@ Beefy_Finance_Arbitrum,arbitrum,treasuryMultisig,0x3f5eddad52C665A4AA011cd11A21E
 Chainlink_Data_Feeds_Arbitrum,arbitrum,ETH_USD_Feed_Owner,0x2F3b388EB017613eb51F06843DFEF12Db1fDD3c5,true,9,503687403,2026-09-10
 Pendle_Finance_Arbitrum,arbitrum,governanceProxy,0x2aD631F72fB16d91c4953A7f4260A97C2fE2f31e,false,,503687403,2026-09-10
 Pendle_Finance_Arbitrum,arbitrum,devProxyAdmin,0xD37eB2E6DE40a33ba68BaD94427723b66c954EA9,false,,503687403,2026-09-10
+Morpho_Blue_Arbitrum,arbitrum,Morpho_DAO_Safe,0xFd358f49678bd408FBCe0cF6bb9DFA5857d5d9b2,true,9,504446192,2026-09-12
 Aave_Avalanche,avalanche,GRANULAR_GUARDIAN,0xc1162BCb2E5E3ca4725512008c7522dF8C8B7B65,false,,94935570,2026-09-10
 Aave_Avalanche,avalanche,GOVERNANCE_GUARDIAN,0x360c0a69Ed2912351227a0b745f890CB2eBDbcFe,true,9,94935570,2026-09-10
 Aave_Avalanche,avalanche,EXECUTOR_LVL_1,0x3C06dce358add17aAf230f2234bCCC4afd50d090,false,,94935570,2026-09-10
